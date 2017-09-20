@@ -1,4 +1,4 @@
-package com.coolweather.android.service;
+package com.coolweather.android;
 
 import android.support.v4.app.Fragment;
 import android.app.ProgressDialog;
