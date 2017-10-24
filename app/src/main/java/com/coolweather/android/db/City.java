@@ -10,8 +10,11 @@ public class City extends DataSupport {
 
     //Field
     private int id;
+
     private String cityName;
+
     private int cityCode;
+
     private int provinceId;
 
     public int getId() {

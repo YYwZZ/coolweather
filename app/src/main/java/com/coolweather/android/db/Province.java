@@ -10,7 +10,9 @@ public class Province extends DataSupport{
 
     //Field
     private int id;
+
     private String provinceName;
+
     private int provinceCode;
 
     public int getId() {
